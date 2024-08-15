@@ -1,10 +1,11 @@
-###Currently under development :
-- This Will Currently House Information Surrounding The Development Of The Game.
-  - Test
+Currently under development :
+This Will Currently House Information Surrounding The Development Of The Game Such As :
+  - Various Mechanics & Features Being Worked On
+  - What To Expect From Mechanics & Features In Development
 
 ##
 
-#Mechanics & Features In Development :
+Mechanics & Features In Development :
 - [System] - [Progress]
 - Skill Level System - The Level Tracking System Is Built, And I'm Currently Working On An Experience System 
 - Character Level System - The Level Tracking System Is Built, But Same As Above I'm Currently Working On An Experience System
@@ -16,10 +17,10 @@
 
 ##
 
-##Road Map :
+Road Map :
 - By The Start Of September Finish These Two Systems
 
 ##
 
-###Special Thanks To :
+Special Thanks To :
 - Averyxstream for creative help and being a future bug tester for the game.
